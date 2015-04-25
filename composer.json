@@ -2,8 +2,8 @@
     "name": "tiagogouvea/plib",
     "type": "library",
     "description": "A simple PHP library to easy development",
-    "keywords": ["php","rest","router"],
-    "homepage": "http://github.com/codeguy/Slim",
+    "keywords": ["php"],
+    "homepage": "https://github.com/tiagogouvea/plib",
     "license": "MIT",
     "authors": [
         {
@@ -23,5 +23,5 @@
             "type": "vcs",
             "url": "https://github.com/tiagogouvea/plib"
         }
-    ],
+    ]
 }
