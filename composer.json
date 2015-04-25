@@ -1,0 +1,27 @@
+{
+    "name": "tiagogouvea/plib",
+    "type": "library",
+    "description": "A simple PHP library to easy development",
+    "keywords": ["php","rest","router"],
+    "homepage": "http://github.com/codeguy/Slim",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tiago Gouvêa",
+            "email": "tiago@tiagogouvea.com.br",
+            "homepage": "http://www.tiagogouvea.com.br/"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-0": { "Slim": "." }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/tiagogouvea/plib"
+        }
+    ],
+}
